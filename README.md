@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cunver
+- 👋 Hi, I’m Cahit Ünver
 - 📫 How to reach me cunver@hotmail.com
 
 <!---
