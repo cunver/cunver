@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @cunver
-- 👀 I’m interested in software development mainly in Java
-- 🌱 I’m currently learning Kafka and Cloud Computing
 - 📫 How to reach me cunver@hotmail.com
 
 <!---
